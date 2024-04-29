@@ -1,11 +1,108 @@
-{
-    "workers": [
-        {
-            "name": "Бат",
-            "role": "Захирал",
-            "duration": 20,
-            "salary": 300000,
-            "age": 35
-        }
-    ]
-}
+[
+    {
+      "name": "Emma Scott",
+      "age": 34,
+      "position": "Project Coordinator",
+      "department": "Project Management",
+      "salary": 67000
+    },
+    {
+      "name": "Jason Brown",
+      "age": 31,
+      "position": "Digital Marketing Specialist",
+      "department": "Digital Marketing",
+      "salary": 72000
+    },
+    {
+      "name": "Olivia Davis",
+      "age": 27,
+      "position": "UX/UI Designer",
+      "department": "Design",
+      "salary": 69000
+    },
+    {
+      "name": "William Miller",
+      "age": 40,
+      "position": "Operations Supervisor",
+      "department": "Operations",
+      "salary": 78000
+    },
+    {
+      "name": "Sophia Martinez",
+      "age": 28,
+      "position": "Content Manager",
+      "department": "Content",
+      "salary": 73000
+    },
+    {
+      "name": "James Taylor",
+      "age": 35,
+      "position": "Sales Representative",
+      "department": "Sales",
+      "salary": 68000
+    },
+    {
+      "name": "Charlotte Wilson",
+      "age": 32,
+      "position": "HR Generalist",
+      "department": "Human Resources",
+      "salary": 74000
+    },
+    {
+      "name": "Ethan Johnson",
+      "age": 29,
+      "position": "Financial Advisor",
+      "department": "Finance",
+      "salary": 79000
+    },
+    {
+      "name": "Amelia Garcia",
+      "age": 36,
+      "position": "Customer Success Manager",
+      "department": "Customer Success",
+      "salary": 75000
+    },
+    {
+      "name": "Alexander Brown",
+      "age": 33,
+      "position": "Product Owner",
+      "department": "Product",
+      "salary": 82000
+    },
+    {
+      "name": "Ava Smith",
+      "age": 30,
+      "position": "Marketing Coordinator",
+      "department": "Marketing",
+      "salary": 71000
+    },
+    {
+      "name": "Liam Jones",
+      "age": 37,
+      "position": "IT Manager",
+      "department": "Information Technology",
+      "salary": 83000
+    },
+    {
+      "name": "Mia Miller",
+      "age": 26,
+      "position": "Event Planner",
+      "department": "Events",
+      "salary": 70000
+    },
+    {
+      "name": "Benjamin Davis",
+      "age": 38,
+      "position": "Quality Assurance Analyst",
+      "department": "Quality Assurance",
+      "salary": 76000
+    },
+    {
+      "name": "Harper Wilson",
+      "age": 31,
+      "position": "Legal Assistant",
+      "department": "Legal",
+      "salary": 77000
+    }
+  ]
+  
