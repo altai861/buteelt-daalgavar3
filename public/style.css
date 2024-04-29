@@ -18,3 +18,8 @@ th, td {
 th {
     background-color: #f2f2f2;
 }
+
+.sub-container {
+    border: 1.5px solid salmon;
+    border-radius: 10px;
+}
