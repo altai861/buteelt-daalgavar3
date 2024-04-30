@@ -142,5 +142,61 @@
     "position": "Social Media Manager",
     "department": "Social Media",
     "salary": 69000
+  },
+  {
+    "id": 19,
+    "name": "Brandon Turner",
+    "age": 29,
+    "position": "IT Specialist",
+    "department": "Information Technology",
+    "salary": 78000
+  },
+  {
+    "id": 35,
+    "name": "Harper Wilson",
+    "age": 31,
+    "position": "Legal Assistant",
+    "department": "Legal",
+    "salary": 77000
+  },
+  {
+    "id": 17,
+    "name": "Justin Young",
+    "age": 41,
+    "position": "Legal Counsel",
+    "department": "Legal",
+    "salary": 96000
+  },
+  {
+    "id": 12,
+    "name": "Jennifer Rodriguez",
+    "age": 27,
+    "position": "Event Coordinator",
+    "department": "Events",
+    "salary": 68000
+  },
+  {
+    "id": 13,
+    "name": "Andrew Anderson",
+    "age": 39,
+    "position": "Quality Assurance Engineer",
+    "department": "Quality Assurance",
+    "salary": 77000
+  },
+  {
+    "id": 11,
+    "name": "Matthew Wilson",
+    "age": 34,
+    "position": "Customer Support Representative",
+    "department": "Customer Service",
+    "salary": 62000
+  },
+  {
+    "id": 15,
+    "name": "Ryan Walker",
+    "age": 37,
+    "position": "Business Analyst",
+    "department": "Business Analysis",
+    "salary": 84000
   }
 ]
